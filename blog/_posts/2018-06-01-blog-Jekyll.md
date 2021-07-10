@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github Pages & jekyll 介紹
+title: 好用的 Github Pages & jekyll 介紹
 image: https://frank198978104.github.io/images/2017-07-28-welcome-to-jekyll/2017-07-28-welcome-to-jekyll-image0.jpg
 accent_image: 
   background: url('https://www.pbs.org/wgbh/nova/media/images/bfcppfu.width-800.png') center/cover
@@ -14,8 +14,11 @@ invert_sidebar: false
 sitemap: false
 ---
 
-## 稍微來介紹一下 Jekyll
+> 來說說 Github Pages 與 jekyll 好用的部落格功能吧~
+
+## 什麼是 Jekyll ?
 Jekyll是基於Ruby Gem的解析引擎，能夠將樣板、liquid 語言、markdown轉換為 靜態網頁 的產生器。
+
 #### 打算使用 Jekyll 的朋友們，會建議熟悉 Git & Html & Markdown
 
 ## 使用的 Jekyll 特色呢?
