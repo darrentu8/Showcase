@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git - 如何在現有的專案中建立子repository模塊， submodule 使用教學 - GitHub
+title: Github Pages & jekyll 介紹
 image: https://frank198978104.github.io/images/2017-07-28-welcome-to-jekyll/2017-07-28-welcome-to-jekyll-image0.jpg
 accent_image: 
   background: url('https://www.pbs.org/wgbh/nova/media/images/bfcppfu.width-800.png') center/cover
@@ -24,7 +24,7 @@ Jekyll是基於Ruby Gem的解析引擎，能夠將樣板、liquid 語言、markd
 - Free hosting with GitHub Pages 只要學會git push 就可以丟到github page上
 - Markdown 好編寫
 
-## Github Pages & ekyll 技術介紹
+## Github Pages & jekyll 技術介紹
 Git, Github, Github Pages
 Git版本控制工具，Github是使用git版本控制項目的的虛擬主機服務<br>
 ![](https://photo.minwt.com/img/Content/server/github-page/github-page_00.jpg) 
