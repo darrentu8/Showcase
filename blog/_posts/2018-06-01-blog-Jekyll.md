@@ -27,7 +27,8 @@ Jekyll是基於Ruby Gem的解析引擎，能夠將樣板、liquid 語言、markd
 ## Github Pages & ekyll 技術介紹
 Git, Github, Github Pages
 Git版本控制工具，Github是使用git版本控制項目的的虛擬主機服務
-![](https://photo.minwt.com/img/Content/server/github-page/github-page_00.jpg)
+![](https://photo.minwt.com/img/Content/server/github-page/github-page_00.jpg) 
+<br>
 連結在此：http://pages.github.com/
 Github Pages 是 Github 提供的服務，可以利用 Repository 建立自己的靜態頁面，其中不需要任何 databases 的 Jekyll 強大功能，在每次的 git push 後會將 markdown 轉換為頁面，所以 Jekyll 是很適合用來建立部落格等內容！
 
