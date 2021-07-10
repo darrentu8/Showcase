@@ -8,9 +8,8 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 invert_sidebar: false
-# related_posts:
-#   - example/_posts/2017-11-23-example-content-ii.md
-#   - /example/2012-02-07-example-content/
+related_posts:
+  - blog/_posts/2019-01-22-blog-mergesort.md
 sitemap: false
 ---
 

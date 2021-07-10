@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: JS - 合併排序法 O(n logn) Merge Sort - 資料結構演算法
 image: https://upload.wikimedia.org/wikipedia/commons/c/c5/Merge_sort_animation2.gif
 accent_image: 
@@ -8,9 +8,8 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 invert_sidebar: false
-# related_posts:
-#   - example/_posts/2017-11-23-example-content-ii.md
-#   - /example/2012-02-07-example-content/
+related_posts:
+  - blog/_posts/2019-01-14-blog-bubble.md
 sitemap: false
 ---
 

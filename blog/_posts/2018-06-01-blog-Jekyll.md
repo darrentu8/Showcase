@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 好用的 Github Pages & jekyll 介紹
 image: https://frank198978104.github.io/images/2017-07-28-welcome-to-jekyll/2017-07-28-welcome-to-jekyll-image0.jpg
 accent_image: 
