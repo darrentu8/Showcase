@@ -14,6 +14,9 @@ invert_sidebar: false
 sitemap: false
 ---
 
+0. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
 這篇文章想來分享一個自己覺得非常有趣且實用的應用，就是利用 google sheet 來充當表單內容的資料庫，我想許多讀者會猜測這將會是一個麻煩的過程，可能要經過許多繁雜的設置，不過事實是…
 其實非常簡單又方便
 如果想一探究竟的讀者就繼續往下看吧！

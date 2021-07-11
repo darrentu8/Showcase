@@ -14,6 +14,9 @@ invert_sidebar: false
 sitemap: false
 ---
 
+0. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
 > 主要會使用到 Git Submodule 是因為部落格是使用 GitHub Pages，是GitHub提供的一個網頁代管服務，其中 Jekyll 軟體可以用於將文檔轉換成靜態網頁，該軟體提供了將網頁上傳到GitHub Pages的功能可說是超級方便！
 
 ## 何謂 Git Submodule

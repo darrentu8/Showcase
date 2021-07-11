@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: JS - 合併排序法 O(n logn) Merge Sort - 資料結構演算法
 image: https://upload.wikimedia.org/wikipedia/commons/c/c5/Merge_sort_animation2.gif
 accent_image: 
@@ -12,6 +12,9 @@ related_posts:
   - blog/_posts/2019-01-14-blog-bubble.md
 sitemap: false
 ---
+
+0. this unordered seed list will be replaced by toc as unordered list
+{:toc}
 
 ## 初學者入門學習的演算法 - 合併排序法 Merge Sort
 
@@ -68,7 +71,6 @@ console.log(mergeSort(array));
 [1, 2, 3, 4, 7, 8, 11]
 
 ```
-
 
 
 ## Reference

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 好用的 Github Pages & jekyll 介紹
 image: https://frank198978104.github.io/images/2017-07-28-welcome-to-jekyll/2017-07-28-welcome-to-jekyll-image0.jpg
 accent_image: 
@@ -14,7 +14,11 @@ invert_sidebar: false
 sitemap: false
 ---
 
-> 來說說 Github Pages 與 jekyll 好用的部落格功能吧~
+0. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
+來說說 Github Pages 與 jekyll 好用的部落格功能吧~
+{:.note}
 
 ## 什麼是 Jekyll ?
 Jekyll是基於Ruby Gem的解析引擎，能夠將樣板、liquid 語言、markdown轉換為 靜態網頁 的產生器。
