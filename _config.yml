@@ -49,9 +49,9 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Blog
-    url:               /
+    url:               /blog/
   - title:             Showcase
-    url:               /showcase/
+    url:               /projects/
   - title:             About Me
     url:               /about/
   - title:             Resume
@@ -271,7 +271,7 @@ hydejack:
     always:            false
 
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
-    dynamic:           true
+    dynamic:           false
 
     # Set to `true` to allow visitors to switch between light and dark mode.
     icon:              true
