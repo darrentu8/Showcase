@@ -6,7 +6,7 @@ description: >
   Resume
 hide_description: true
 ---
-## Front-end Skills
+## Skills
 
 Html5、CSS3、React、Vue.js、Next.js、Nuxt、Express.js、JavaScript(ES6+)、jQuery、 <br>
 擅長 Pug + Sass / SCSS 開發、熟悉 Quasar,Boostrap Vuetify, Element UI 等 UI Library、 <br>
