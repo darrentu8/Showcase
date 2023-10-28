@@ -8,23 +8,44 @@ hide_description: true
 ---
 ## Front-end Skills
 
-Html、CSS3、Vue.js、Vue CLI 3.0、Vue Router、Vuex、JavaScript(ES6+)、jQuery、 <br>
-擅長 Pug + Sass / SCSS 開發、熟悉 Boostrap, Vuetify, Element UI 等 UI Library、 <br>
+Html5、CSS3、React、Vue.js、Next.js、Nuxt、Express.js、JavaScript(ES6+)、jQuery、 <br>
+擅長 Pug + Sass / SCSS 開發、熟悉 Quasar,Boostrap Vuetify, Element UI 等 UI Library、 <br>
 串接 RESTful API 獲取遠端資料、SASS 模組化網頁、手刻進行 RWD 客製化、 <br>
-團隊開發利用 Git / Gitlab、ESLint、TSLint、Prettier 等等VScode 擴充功能... <br>
+利用 AWS / Docker / Git / Gitlab、ESLint、TSLint、Prettier 管理開發... <br>
 
 ## TOOLS SUMMARY
 
 **Project Management** / Axure, Gantter, Xmind <br>
 **UX** / Persona, User Story Mapping, Functional Map <br>
 **UI** / Flow Chart, Wireframe, Prototype, Adobe XD, Invision, Sketch, Zeplin <br>
-**Develop Language** / Html5, CSS3, Sass, Scss, JS, JQ <br>
+**Develop Language** / Html5, CSS3, Sass, React, Vue.js, JS, JQ <br>
 **Develop Tools** / Visual Studio Code, Git, Brackets, Wordpress <br>
 **Analysis** / Google Optimize, GTM, GA, AdWords, Hotjar, SimilarWeb <br>
 **Frond-end** / Node.js, Vue.js, Bootstrap, Semantic UI, Pure, AMP <br>
 **Visual Processing** / Illustrator, PhotoShop, InDesign, Lightroom, AE, Premiere, DaVinci <br>
 **3D Motion** / Poser, MAYA, SketchUp <br>
 
+## Experience
+
+**Delta Electronics**<br>
+Aug 2022 - Now<br>
+Senior Software Engineer<br>
+
+**eForce Taiwan Technology**<br>
+Jul 2020 - Jul 2022<br>
+Senior Frontend Developer<br>
+
+**We-Lead Bio Technology**<br>
+Jan 2015 - Apr 2020<br>
+Team Manager<br>
+
+**Towan Digital Imaging**<br>
+Oct 2009 - Apr 2013<br>
+Web Design Engineer<br>
+
+**Xigu Culture Communication**<br>
+Nov 2005 - Jun 2008<br>
+Project Assistant<br>
 
 ## Education
 
@@ -32,24 +53,9 @@ Html、CSS3、Vue.js、Vue CLI 3.0、Vue Router、Vuex、JavaScript(ES6+)、jQue
 Sep 2004 - Jun 2008<br>
 Department of Commercial Design<br>
 
-Fu-Hsin Trade & Arts School<br>
+**Fu-Hsin Trade & Arts School**<br>
 Sep 2001 - Jun 2004<br>
 Art Department<br>
-
-## Experience
-
-**We-Lead Bio Technology**<br>
-Jan 2015 - Apr 2020<br>
-Assistant Marketing Manager<br>
-
-**Towan Digital Imaging**<br>
-Oct 2009 - Apr 2013<br>
-Digital Designer<br>
-
-**Xigu Culture Communication**<br>
-Nov 2005 - Jun 2008<br>
-Project Assistant<br>
-
 
 ## Awards
 
