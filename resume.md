@@ -8,22 +8,22 @@ hide_description: true
 ---
 ## Skills
 
-Html5、CSS3、React、Vue.js、Next.js、Nuxt、Express.js、JavaScript(ES6+)、jQuery、 <br>
-擅長 Pug + Sass / SCSS 開發、熟悉 Quasar,Boostrap Vuetify, Element UI 等 UI Library、 <br>
-串接 RESTful API 獲取遠端資料、SASS 模組化網頁、手刻進行 RWD 客製化、 <br>
-利用 AWS / Docker / Git / Gitlab、ESLint、TSLint、Prettier 管理開發... <br>
+1. 參與 UI/UX 介面設計與 PM 以及後端工程師討論資訊架構以及專案時程
+2. 擅長跨平台軟體開發 Electron、Vue、React、Nodejs、JS、JQ、TypeScript、Vite 進行產品開發。
+3. 使用基於 Vue.js 的框架的 SSR 技術 Nuxt.js 或 React Next.js 技術。
+4. Cypress、Nghtwatch E2E 測試及 SVN、Git 或 Sourcetree 等版本控管工具。
+5. 使用瀏覽器開發者工具評估程式運行效能，減少重新渲染，降低資料處理複雜度。
+6. 與測試工程師合作，進行 bug 修正或是與 PM 討論規格變更。
 
 ## TOOLS SUMMARY
 
-**Project Management** / Axure, Gantter, Xmind <br>
-**UX** / Persona, User Story Mapping, Functional Map <br>
-**UI** / Flow Chart, Wireframe, Prototype, Adobe XD, Invision, Sketch, Zeplin <br>
-**Develop Language** / Html5, CSS3, Sass, React, Vue.js, JS, JQ <br>
-**Develop Tools** / Visual Studio Code, Git, Brackets, Wordpress <br>
-**Analysis** / Google Optimize, GTM, GA, AdWords, Hotjar, SimilarWeb <br>
-**Frond-end** / Node.js, Vue.js, Bootstrap, Semantic UI, Pure, AMP <br>
-**Visual Processing** / Illustrator, PhotoShop, InDesign, Lightroom, AE, Premiere, DaVinci <br>
-**3D Motion** / Poser, MAYA, SketchUp <br>
+**[Develop Language]** Html5, CSS3, JS, JQ, Sass, Scss, Stylus, Tailwind CSS<br>
+**[Develop Framework]** Vue.js, React.js, Nuxt.js, Next.js, Node.js, Fabric.js, WebSocket<br>
+**[UI Framework]** Quasar, Vuetify, MUI, Ant Design, Element UI<br>
+**[UI Design]** Figma, Adobe XD, Invision, Sketch, Zeplin<br>
+**[UX]** Persona, User Story Mapping, Functional Map<br>
+**[Visual Processing]** Illustrator, PhotoShop, InDesign, Lightroom, AE, Premiere, DaVinci<br>
+**[3D Motion]** Poser, MAYA, SketchUp
 
 ## Experience
 
@@ -35,7 +35,7 @@ Senior Software Engineer<br>
 Jul 2020 - Jul 2022<br>
 Senior Frontend Developer<br>
 
-**We-Lead Bio Technology**<br>
+**ADATA Group _ We-Lead Bio Technology**<br>
 Jan 2015 - Apr 2020<br>
 Team Manager<br>
 
@@ -73,6 +73,12 @@ Art Department<br>
   May 2018 / Book & Ebook / Language: Traditional Chinese<br>
 - "巴黎夢幻自助婚紗｜Wedding photography in Paris" - Farreaching Huacheng Publishing<br>
   Oct 2014 / Language: Traditional Chinese<br>
+
+## Certification
+
+- Google Analytics (分析) 個人認證資格
+- Google Ads 搜尋廣告認證
+- JavaScript Algorithms and Data Structures
 
 <!-- ## Work Portfolio
 

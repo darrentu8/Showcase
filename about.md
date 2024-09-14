@@ -34,22 +34,26 @@ Html、CSS3、Vue.js、Vue CLI 3.0、Vue Router、Vuex、JavaScript(ES6+)、jQue
 **3D Motion** / Poser, MAYA, SketchUp <br> -->
 ## Work Portfolio
 
-> 【設計思考的啟發】
+近年主要專注在“互動軟體研發”，參與過 Whiteboard 電子白板、NovoDS Cloud 雲端數位看板系統、GPIO 感測器控制、遠端會議系統、軟體 CI & 許可證管理後台。上一份工作專案包含「Ai+數據引擎，跨國電商，GA廣告追蹤系統、CRM系統、人才庫系統、NIKE.vn & Golf」等平台前端開發。
+
+【設計思考的啟發】
+
 最早接觸到UIUX領域是任職數位設計公司期間，所屬團隊是由一位義大利籍女藝術總監負責，在她的西式帶領下給了我相當大的影響，總監對專案非常細心負責，也鼓勵我們要有國際視野，並多體驗生活美感提高設計經驗。更了解幾項重要設計原則如：UCD使用者為中心出發、好的設計是使產品易於理解、Design Guideline設計一致性等，透過在不同文化及扎實的實務經驗中，啟發了我對設計思考的看法，了解設計不僅是外觀和感覺，設計就是它的工作方式。
 
-> 【從前端工程到軟體開發】
-近五年的工作經驗與電子科技領域相關，目前主要負責視訊互動軟體與中小企業AI+智能數據服務。過去曾在生醫科技集團擔任專案技術經理主導平台開發，透過研究訪談利害關係人、網站用戶及專業醫療人員，協同工程部、藥師和業務團隊進行功能規劃，其中包含：在線諮詢和醫生預約系統、查藥APP、社群互動功能以及電子商務系統。除累積了豐富的專案開發經驗外，同時也積極學習網頁前端技術，利用SASS加速CSS撰寫及框架工具縮短開發時程，並結合Google Optimize、GA、GTM分析操作，配合集團產品電子商務操作行銷活動，解決網站導入使用介面等問題。這些寶貴的經驗讓我開始負責管理層面的工作，對我而言，積極、主動、負責一直是自己面對工作的態度，保持彈性勇於嘗試付出，才能扮演好自己的角色為團隊加分！ 
+【從前端工程到軟體開發】
 
-> 【數位浪潮&行銷管理】
-在未來的數位科技、消費者與媒體都瞬息萬變的時代，對我而言，任何新網路技術與工具，都有可學習的價值。提前做好準備，在開始時勇於嘗試，時時保持對市場的脈動，與變化的彈性，培養短時間開發出具可行性的產品與符合消費創意的傳播因子，無論面對什麼產業或挑戰皆能應對！
+近五年的工作經驗與電子科技領域相關，開發過線上雲端軟體、多樣性的前後台網站至B2B的中小企業AI+智能數據服務系統。回顧過去曾任職威剛集團專案的技術經理負責主導平台開發，從無到有並透過研究訪談利害關係人、網站用戶及專業醫療人員，協同工程部、藥師和業務團隊進行功能規劃，如：在線諮詢和醫生預約系統、查藥APP、社群互動功能以及電子商務系統。累積了豐富的專案開發經驗，同時也積極學習其他網頁技術，SEM、Website Meta及Google Optimize、GA、GTM等分析操作，配合集團產品電子商務操作行銷活動，解決網站導入使用介面等問題。這些寶貴的經驗讓我開始負責管理層面的工作，對我而言，積極、主動、負責一直是自己面對工作的態度，保持彈性勇於嘗試付出，才能扮演好自己的角色為團隊加分！
 
-> 【Inspired by design thinking】
-The earliest exposure to the UIUX field was when I was working in a digital design company. The team was led by an Italian female art director. Her western-style led me to a considerable influence. The director is very responsible for the project and encourages us. Have an international perspective, and experience the beauty of life to improve the design experience. Learn more about several important design principles such as User-Centered Design(UCD), good design is to make the product easy to understand, Design Guideline design consistency, etc., through different cultures and solid practical experience, inspired me to think about design Views, the understanding design is not just about to look and feel, the design is how it works.
+---------------------------------------
 
-> 【From UIUX to front-end technology】
-Nearly five years of work experience is related to the field of medical technology. Work in technology companies is responsible for platform design and development. Through research and interviews with stakeholders, website users, and professional medical staff, we collaborate with the engineering department, pharmacists and business team to carry out functional planning, including Online consultation and doctor appointment system, drug search app, community interaction function, and e-commerce system. In addition to accumulating rich project development experience, we are also actively learning web front-end technology, using SASS to accelerate CSS writing and framework tools to shorten development time, and combining Google Optimize, GA, GTM analysis operations, and cooperate with group product e-commerce operation marketing activities, Solve the problem of interface introduction and use. These valuable experiences made me start to be responsible for the management level. For me, being active, proactive, and responsible has always been my attitude towards the work. Keeping flexibility and trying to pay, I can play my role and add points to the team!
+[Inspiration from design thinking] 
 
-> 【Digital Wave & Marketing Management】
-In an era where digital technology, consumers, and the media are changing rapidly, for me, any new network technology and tools have learning value. Be prepared in advance, be brave in the beginning, always keep the pulse of the market, and the flexibility of change, cultivate a short period of time to develop viable products and communication factors that meet consumer creativity, no matter what industry or challenge. response!
+The first time I came into contact with the UIUX field was when I was working in a digital design company. The team I belonged to was headed by an Italian female art director. Her Western-style leadership had a great impact on me. The director was very enthusiastic about the project. Being careful and responsible also encourages us to have an international perspective, experience more of the beauty of life and improve our design experience. I learned more about several important design principles such as: UCD user-centered approach, good design is to make the product easy to understand, Design Guideline design consistency, etc. Through different cultures and solid practical experience, it inspired me to think about design. perspective, understanding that design is not just about how it looks and feels, design is how it works.
+
+[From front-end engineering to software development] 
+
+The past five years of work experience are related to the field of electronic technology. I have developed online cloud software, diverse front-end and back-end websites, and B2B small and medium-sized enterprise AI+ intelligent data service systems. Looking back on the past, I worked as a technical manager for ADATA Group projects and was responsible for leading the development of the platform from scratch. Through research and interviews with stakeholders, website users and professional medical personnel, I collaborated with the engineering department, pharmacists and business teams to carry out functional planning, such as: Online consultation and doctor appointment system, drug search APP, social interaction function and e-commerce system.
+
+He has accumulated rich experience in project development, and is also actively learning other web page technologies, SEM, Website Meta and Google Optimize, GA, GTM and other analysis operations, cooperating with the group's product e-commerce operations and marketing activities, and solving problems such as website import and user interface. These valuable experiences allowed me to take charge of management-level work. For me, being positive, proactive, and responsible has always been my attitude towards work. Only by remaining flexible and having the courage to try and give can I play my role well and add points to the team!
 
 {:.lead}
