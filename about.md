@@ -7,53 +7,53 @@ description: >
 hide_description: true
 ---
 
-# Software Engineer－軟體工程師
+# Darren Tu - Software Engineer
 
 <!--author-->
-<!-- ![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
 
-Hydejack's cover page on a variety of screen sizes.
-{:.figcaption} -->
+## About
 
-<!-- ## Front-end Skills
+With over a decade of experience in software engineering, I focus on designing distributed, real-time systems that power collaborative and data-driven applications.
 
-Html、CSS3、Vue.js、Vue CLI 3.0、Vue Router、Vuex、JavaScript(ES6+)、jQuery、 <br>
-擅長 Pug + Sass / SCSS 開發、熟悉 Boostrap, Vuetify, Element UI 等 UI Library、 <br>
-串接 RESTful API 獲取遠端資料、SASS 模組化網頁、手刻進行 RWD 客製化、 <br>
-團隊開發利用 Git / Gitlab、ESLint、TSLint、Prettier 等等VScode 擴充功能... <br>
-## TOOLS SUMMARY
+At Delta Electronics, I work on AI-assisted operational workflows and collaborative software products. Recent work includes architecting an AI-driven log analysis platform for real-time anomaly detection, reducing troubleshooting time by 40% across cloud-based systems, and designing interactive whiteboard systems that support concurrent multi-user editing.
 
-**Project Management** / Axure, Gantter, Xmind <br>
-**UX** / Persona, User Story Mapping, Functional Map <br>
-**UI** / Flow Chart, Wireframe, Prototype, Adobe XD, Invision, Sketch, Zeplin <br>
-**Develop Language** / Html5, CSS3, Sass, Scss, JS, JQ <br>
-**Develop Tools** / Visual Studio Code, Git, Brackets, Wordpress <br>
-**Analysis** / Google Optimize, GTM, GA, AdWords, Hotjar, SimilarWeb <br>
-**Frond-end** / Node.js, Vue.js, Bootstrap, Semantic UI, Pure, AMP <br>
-**Visual Processing** / Illustrator, PhotoShop, InDesign, Lightroom, AE, Premiere, DaVinci <br>
-**3D Motion** / Poser, MAYA, SketchUp <br> -->
+These systems require solving practical engineering challenges such as low-latency communication, state consistency across distributed clients, high-frequency event handling, and frontend performance optimization.
+
+## Core Strengths
+
+- Distributed systems and real-time architecture
+- Collaborative systems similar to Figma and Google Docs
+- Cloud-native development with Amazon Web Services
+- Full-stack engineering across Java, frontend frameworks, and API integration
+- Data-driven UI, dashboard development, and observability workflows
+- Product-minded engineering with UI/UX and cross-functional collaboration
+
 ## Work Portfolio
 
-近年主要專注在“互動軟體研發”，參與過 Whiteboard 電子白板、NovoDS Cloud 雲端數位看板系統、GPIO 感測器控制、遠端會議系統、軟體 CI & 許可證管理後台。上一份工作專案包含「Ai+數據引擎，跨國電商，GA廣告追蹤系統、CRM系統、人才庫系統、NIKE.vn & Golf」等平台前端開發。
+近年主要專注在即時協作軟體、企業雲端系統與資料驅動產品開發，參與過互動電子白板、雲端數位看板、AI log analysis、企業資料平台、CRM、跨境電商、Chatbot 以及醫療健康服務平台等專案。
 
-【設計思考的啟發】
+【即時協作與分散式系統】
 
-最早接觸到UIUX領域是任職數位設計公司期間，所屬團隊是由一位義大利籍女藝術總監負責，在她的西式帶領下給了我相當大的影響，總監對專案非常細心負責，也鼓勵我們要有國際視野，並多體驗生活美感提高設計經驗。更了解幾項重要設計原則如：UCD使用者為中心出發、好的設計是使產品易於理解、Design Guideline設計一致性等，透過在不同文化及扎實的實務經驗中，啟發了我對設計思考的看法，了解設計不僅是外觀和感覺，設計就是它的工作方式。
+在台達電子期間，主要投入企業級軟體與雲端服務開發，包含互動電子白板、線上協作工具、雲端數位看板與 AI 輔助系統維運分析。透過 WebSocket、事件同步、狀態管理與前端效能優化，支援多人同步操作與低延遲互動。
 
-【從前端工程到軟體開發】
+【AI 與系統可觀測性】
 
-近五年的工作經驗與電子科技領域相關，開發過線上雲端軟體、多樣性的前後台網站至B2B的中小企業AI+智能數據服務系統。回顧過去曾任職威剛集團專案的技術經理負責主導平台開發，從無到有並透過研究訪談利害關係人、網站用戶及專業醫療人員，協同工程部、藥師和業務團隊進行功能規劃，如：在線諮詢和醫生預約系統、查藥APP、社群互動功能以及電子商務系統。累積了豐富的專案開發經驗，同時也積極學習其他網頁技術，SEM、Website Meta及Google Optimize、GA、GTM等分析操作，配合集團產品電子商務操作行銷活動，解決網站導入使用介面等問題。這些寶貴的經驗讓我開始負責管理層面的工作，對我而言，積極、主動、負責一直是自己面對工作的態度，保持彈性勇於嘗試付出，才能扮演好自己的角色為團隊加分！
+近期工作聚焦於將 Delta AI 導入系統 log analysis workflow，協助即時異常偵測與問題定位，降低 troubleshooting time，並提升系統可觀測性與企業客戶提案時的技術準備度。
+
+【產品工程與 UI/UX】
+
+過去在 eForce Taiwan 參與企業資料平台、CRM、跨境電商與數據儀表板開發，使用 Vue.js、Chart.js、RESTful API、LINE Messaging API、webpack、Git 等工具，優化前端效能、Core Web Vitals 與跨裝置使用體驗。
+
+【醫療健康平台與團隊管理】
+
+在 ADATA Technology / We-Lead Bio Technology 期間，主導 KingNet 醫療服務、即時諮詢系統、健康產品電商與數位行銷平台，從 UX/UI 設計、前端實作到跨部門協作，完整參與產品生命週期與團隊管理。
 
 ---------------------------------------
 
-[Inspiration from design thinking] 
+## English Summary
 
-The first time I came into contact with the UIUX field was when I was working in a digital design company. The team I belonged to was headed by an Italian female art director. Her Western-style leadership had a great impact on me. The director was very enthusiastic about the project. Being careful and responsible also encourages us to have an international perspective, experience more of the beauty of life and improve our design experience. I learned more about several important design principles such as: UCD user-centered approach, good design is to make the product easy to understand, Design Guideline design consistency, etc. Through different cultures and solid practical experience, it inspired me to think about design. perspective, understanding that design is not just about how it looks and feels, design is how it works.
+My work sits at the intersection of software engineering, product design, and real-time collaboration. I enjoy building systems where the frontend is not only a visual layer, but part of the product's operational intelligence: synchronizing state, making complex workflows understandable, and helping users act with confidence.
 
-[From front-end engineering to software development] 
-
-The past five years of work experience are related to the field of electronic technology. I have developed online cloud software, diverse front-end and back-end websites, and B2B small and medium-sized enterprise AI+ intelligent data service systems. Looking back on the past, I worked as a technical manager for ADATA Group projects and was responsible for leading the development of the platform from scratch. Through research and interviews with stakeholders, website users and professional medical personnel, I collaborated with the engineering department, pharmacists and business teams to carry out functional planning, such as: Online consultation and doctor appointment system, drug search APP, social interaction function and e-commerce system.
-
-He has accumulated rich experience in project development, and is also actively learning other web page technologies, SEM, Website Meta and Google Optimize, GA, GTM and other analysis operations, cooperating with the group's product e-commerce operations and marketing activities, and solving problems such as website import and user interface. These valuable experiences allowed me to take charge of management-level work. For me, being positive, proactive, and responsible has always been my attitude towards work. Only by remaining flexible and having the courage to try and give can I play my role well and add points to the team!
+Before moving deeper into enterprise software and cloud systems, I built a strong foundation in UI/UX, branding-focused web platforms, responsive interfaces, and digital product design. That background still shapes how I approach engineering today: a useful system should be reliable, understandable, and designed around the people who operate it.
 
 {:.lead}
